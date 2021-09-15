@@ -1,4 +1,13 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+
+<!-- GitHub StatsとMost Used Languages -->
+<span>
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=kirima-miya&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true" />
+</span>
+<span>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirima-miya" />
+</span>
+
 
 <!--
 **kirima-miya/kirima-miya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
