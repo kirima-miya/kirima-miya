@@ -7,11 +7,8 @@
 
 <hr>
 
-<!-- GitHub StatsとMost Used Languages -->
+<!-- Most Used Languages -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<span>
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=kirima-miya&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true" />
-</span>
 <span>
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirima-miya" />
 </span>
